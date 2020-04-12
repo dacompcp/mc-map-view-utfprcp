@@ -1,5 +1,5 @@
 var markersDB={
-  "Lugares_Importantes0ac9_86af": {
+  "CA/DA/Proj.Pesq.Ext.a540_0f27": {
     "created": false,
     "raw": [
       {
@@ -65,43 +65,11 @@ var markersDB={
         "icon": "images/camat.png",
         "text": "Centro Acad\u00eamico da Matem\u00e1tica (CAMAT)",
         "hovertext": "CAMAT"
-      },
-      {
-        "x": 182,
-        "y": 64,
-        "z": -125,
-        "icon": "images/24horas.png",
-        "text": "Espa\u00e7o de funcionamento 24horas/7dias da semana com computadores e internet",
-        "hovertext": "24 Horas"
-      },
-      {
-        "x": 178,
-        "y": 64,
-        "z": -138,
-        "icon": "images/hall.png",
-        "text": "Espa\u00e7o para trabalhos em grupo, conversar, descansar e chorar",
-        "hovertext": "Hall"
-      },
-      {
-        "x": 219,
-        "y": 64,
-        "z": -144,
-        "icon": "images/anfitetatro.png",
-        "text": "Vasto edif\u00edcio de forma circular destinado \u00e0 apresenta\u00e7\u00f5es, eventos, palestras, confer\u00eancias...",
-        "hovertext": "Anfiteatro"
-      },
-      {
-        "x": 339,
-        "y": 64,
-        "z": 61,
-        "icon": "images/quadra.png",
-        "text": "Quadra esportiva",
-        "hovertext": "Quadra"
       }
     ],
-    "name": "Lugares Importantes"
+    "name": "CA/DA/Proj.Pesq.Ext."
   },
-  "Blocosf540_86af": {
+  "Blocos5ab8_0f27": {
     "created": false,
     "raw": [
       {
@@ -162,5 +130,59 @@ var markersDB={
       }
     ],
     "name": "Blocos"
+  },
+  "Lugares_Importantes5ac9_0f27": {
+    "created": false,
+    "raw": [
+      {
+        "x": 182,
+        "y": 64,
+        "z": -125,
+        "icon": "images/24horas.png",
+        "text": "Espa\u00e7o de funcionamento 24horas/7dias da semana com computadores e internet",
+        "hovertext": "24 Horas"
+      },
+      {
+        "x": 178,
+        "y": 64,
+        "z": -138,
+        "icon": "images/hall.png",
+        "text": "Espa\u00e7o para trabalhos em grupo, conversar, descansar e chorar",
+        "hovertext": "Hall"
+      },
+      {
+        "x": 219,
+        "y": 64,
+        "z": -144,
+        "icon": "images/ru.png",
+        "text": "Vasto edif\u00edcio de forma circular destinado \u00e0 apresenta\u00e7\u00f5es, eventos, palestras, confer\u00eancias...",
+        "hovertext": "Anfiteatro"
+      },
+      {
+        "x": 214,
+        "y": 64,
+        "z": -111,
+        "icon": "images/ru.png",
+        "text": "Restaurante Universit\u00e1rio - (Seg. - Sext.) Almo\u00e7o das 11H30 \u00e0s 14H00 e janta 17H30 \u00c0s 21H30. E almo\u00e7o aos S\u00e1bados das 11H30 \u00e0s 14H00",
+        "hovertext": "R.U."
+      },
+      {
+        "x": 191,
+        "y": 64,
+        "z": -119,
+        "icon": "images/biblioteca.png",
+        "text": "Biblioteca",
+        "hovertext": "Biblioteca"
+      },
+      {
+        "x": 339,
+        "y": 64,
+        "z": 61,
+        "icon": "images/quadra.png",
+        "text": "Quadra esportiva",
+        "hovertext": "Quadra"
+      }
+    ],
+    "name": "Lugares Importantes"
   }
 };
