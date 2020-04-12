@@ -1,5 +1,5 @@
 var markersDB={
-  "Lugares_Importantescac9_a3d5": {
+  "Lugares_Importantes0ac9_86af": {
     "created": false,
     "raw": [
       {
@@ -39,7 +39,7 @@ var markersDB={
         "y": 64,
         "z": -54,
         "icon": "images/dacomp.png",
-        "text": "Sala do Diret\u00f3rio Acad\u00eamico da Computa\u00e7\u00e3o (DACOMP)",
+        "text": "Diret\u00f3rio Acad\u00eamico da Computa\u00e7\u00e3o (DACOMP)",
         "hovertext": "DACOMP"
       },
       {
@@ -101,7 +101,7 @@ var markersDB={
     ],
     "name": "Lugares Importantes"
   },
-  "Blocos3540_a3d5": {
+  "Blocosf540_86af": {
     "created": false,
     "raw": [
       {
