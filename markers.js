@@ -1,21 +1,21 @@
 var markers={
   "utfprcp": [
     {
-      "groupName": "Blocos5ab8_0f27",
+      "groupName": "Blocos2ab8_b220",
       "displayName": "Blocos",
       "icon": "signpost_icon.png",
       "createInfoWindow": true,
       "checked": false
     },
     {
-      "groupName": "Lugares_Importantes5ac9_0f27",
+      "groupName": "Lugares_Importantes2ac9_b220",
       "displayName": "Lugares Importantes",
       "icon": "signpost_icon.png",
       "createInfoWindow": true,
       "checked": true
     },
     {
-      "groupName": "CA/DA/Proj.Pesq.Ext.a540_0f27",
+      "groupName": "CA/DA/Proj.Pesq.Ext.d540_b220",
       "displayName": "CA/DA/Proj.Pesq.Ext.",
       "icon": "signpost_icon.png",
       "createInfoWindow": true,
